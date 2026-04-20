@@ -10,3 +10,8 @@ Steps
   Windows: .\mr_port_simulation\Scripts\Activate.ps1
   macOS/Linux: source mr_port_simulation/bin/activate
 5.Load Ollama
+
+
+
+* curl -fsSL https://ollama.ai/install.sh | sh
+* ollama pull llama2
