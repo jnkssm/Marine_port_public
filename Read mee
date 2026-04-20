@@ -17,6 +17,8 @@ Steps
 8.Pull model (Large file models) - both Win and Mac
    ollama pull llama2
    ollama pull llama3
+9.Check model list
+   ollama list
 
 
 * curl -fsSL https://ollama.ai/install.sh | sh
