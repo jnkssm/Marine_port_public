@@ -11,7 +11,12 @@ Steps
   macOS/Linux: source mr_port_simulation/bin/activate
 5.Load Ollama
 
+6.Install Ollama
+   Window: pip install ollama
+7.Close and reopen VS Code
+8.Pull model (Large file models) - both Win and Mac
+   ollama pull llama2
+   ollama pull llama3
 
 
 * curl -fsSL https://ollama.ai/install.sh | sh
-* ollama pull llama2
