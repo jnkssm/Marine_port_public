@@ -1,0 +1,12 @@
+Steps
+1.Clone
+   git clone https://github.com/jnkssm/Marine_port_public.git
+2.Intsall requirement.txt
+  pip install -r [file path]requirements.txt
+3.Create environmrnt
+  Windows: python -m venv mr_port_simulation
+  macOS/Linux: python3 -m venv mr_port_simulation
+4.Activating Your Custom Environment
+  Windows: .\mr_port_simulation\Scripts\Activate.ps1
+  macOS/Linux: source mr_port_simulation/bin/activate
+5.Load Ollama
